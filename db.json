@@ -1,0 +1,20 @@
+{
+  "comments": [
+    {
+      "id": "2f5f56ee-1b75-4e61-bfd6-696ee7b936bc",
+      "name": "User",
+      "comment": "This projects is created using json-server.",
+      "rating": 4,
+      "date": 1620912590234,
+      "color": 1
+    },
+    {
+      "id": "d211c0c7-4faa-4b40-9c25-7858ebff478c",
+      "name": "Guru",
+      "comment": "Awesome book!!",
+      "date": 1620913705439,
+      "rating": 5,
+      "color": 6
+    }
+  ]
+}
